@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-ExtraBold.eot');
+  src: url('../fonts/Poppins-ExtraBold.svg') format('embedded-opentype'),
+      url('../fonts/Poppins-ExtraBold.woff') format('woff2'),
+      url('../fonts/Poppins-ExtraBold.woff2') format('woff'),
+      url('../fonts/') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
